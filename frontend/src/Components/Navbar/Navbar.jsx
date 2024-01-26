@@ -15,8 +15,8 @@ const Navbar = () => {
             <p>SHOPPER</p>
             </div>
             <ul className="nav-menu">
-                <li>Shop</li>
-                <li>Men</li>
+                <li>Shop <hr /></li>
+                <li>Men </li>
                 <li>Women</li>
                 <li>Kids</li>
             </ul>
